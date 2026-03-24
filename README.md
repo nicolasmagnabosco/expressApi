@@ -1,4 +1,4 @@
-# A simple Api using Node and Express with validation using JWT
+# A simple Api using Node and Express with validation using JWT integrated with a MySQL database)
 You can use Postman to access the urls and test it.
 
 🛠️ Local Setup
