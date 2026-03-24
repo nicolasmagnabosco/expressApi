@@ -105,13 +105,6 @@ npm start
 
 The server will run on `http://localhost:3000`
 
-### Production
-
-For production deployment, use:
-
-```bash
-node index.js
-```
 
 ### Testing Endpoints
 
