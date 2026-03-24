@@ -1,4 +1,4 @@
-# Nickam Code Academy API
+ Express API with MySQL and JWT
 
 A RESTful API built with Express.js for managing courses and reviews in an online coding academy platform. Features user authentication, course listings, and a comprehensive review system.
 
@@ -93,7 +93,6 @@ PORT=3000
 NODE_ENV=development
 ```
 
-**Important**: Never commit the `.env` file to version control. Add it to your `.gitignore`.
 
 ## Usage
 
