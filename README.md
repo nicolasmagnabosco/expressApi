@@ -1,2 +1,2 @@
-# codoAcodoGrupo16
- TP Node Grupo 16
+# A simple Api using Node and Express with validation using JWT
+You can use Postman to access the urls and test it
