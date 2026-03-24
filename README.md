@@ -1,5 +1,5 @@
 
-A RESTful API built with Express.js and a MySQL datbase.
+A RESTful API built with Express.js and a MySQL database.
 --------------------------------------------------------------------------------------------------------------------------
 ## Table of Contents
 
