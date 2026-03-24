@@ -3,17 +3,17 @@ You can use Postman to access the urls and test it.
 
 🛠️ Local Setup
 
-    Clone the repo: git clone <url>
+1) Clone the repo: git clone <url>
 
-    Install dependencies: npm install
+2) Install dependencies: npm install
 
-    Setup Database: >    * Create a MySQL database named your_db_name.
+3) Setup Database: >    * Create a MySQL database named your_db_name.
 
-        Import the database.sql file provided in this repo.
+4) Import the database.sql file provided in this repo.
 
-    Configure Environment:
+5) Configure Environment:
 
         Rename .env.example to .env and add your DB credentials
 
 
-    Run: node index
+6) Run: node index
